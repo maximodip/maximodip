@@ -1,18 +1,24 @@
-## Hi there, it's Max 👋
+# **Hey, I'm Máximo Dip Aparicio! 👋**  
 
-<!--
-**maximodip/maximodip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Fullstack Developer | Tech Enthusiast | Problem Solver**  
 
-Here are some ideas to get you started:
+I'm a passionate **fullstack developer** focused on building **scalable web applications**. My main tech stack includes:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** Next.js, Astro, React, TypeScript, TailwindCSS  
+- **Backend:** NestJS, Express, TypeORM, MySQL  
+- **Other Tools:** Supabase, Google Sheets API, DBeaver  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximodip&layout=compact&theme=radical)
+## **🌟 What I’m Working On**  
+🔹 Building a **client and inventory management system** for [Farmacia SISA](https://github.com/maximodip).  
+🔹 Developing a **Unit converter** to showcase my projects and contributions.  
+🔹 Creating an **e-commerce platform** where admins can manage products and users can shop easily.  
+
+## **📊 My Developer Stats**  
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximodip&layout=compact&theme=radical)  
+  
+
+## **🔗 Connect with Me**  
+💼 [LinkedIn](#) | 🐦 [Twitter](#) | 🌐 [Portfolio](#)  
+
+---
