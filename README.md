@@ -5,13 +5,13 @@
 I'm a passionate **fullstack developer** focused on building **scalable web applications**. My main tech stack includes:  
 
 - **Frontend:** Next.js, Astro, React, TypeScript, TailwindCSS  
-- **Backend:** NestJS, Express, TypeORM, MySQL  
-- **Other Tools:** Supabase, Google Sheets API, DBeaver  
+- **Backend:** NestJS, Express, TypeORM, MySQL, Prisma
+- **Other Tools:** Git, GitHub, Linux, Scrum  
 
 ## **🌟 What I’m Working On**  
-🔹 Building a **client and inventory management system** for [Farmacia SISA](https://github.com/maximodip).  
-🔹 Developing a **Unit converter** to showcase my projects and contributions.  
-🔹 Creating an **e-commerce platform** where admins can manage products and users can shop easily.  
+🔹 Building a **client and inventory management system** for [Farmacia SISA](https://github.com/maximodip/prisma-farmacia).  
+🔹 Creating an **e-commerce platform for entrepreneurs** to help them grow their business.  
+🔹 Developing a **unit converter web app** for quick and easy calculations.
 
 ## **📊 My Developer Stats**  
   
@@ -19,6 +19,6 @@ I'm a passionate **fullstack developer** focused on building **scalable web appl
   
 
 ## **🔗 Connect with Me**  
-💼 [LinkedIn](#) | 🐦 [Twitter](#) | 🌐 [Portfolio](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/maximodipaparicio/) | 🌐 [Portfolio](https://maximodip.vercel.app/)  
 
 ---
