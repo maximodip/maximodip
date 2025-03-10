@@ -1,4 +1,4 @@
-# **Hey, I'm Máximo Dip Aparicio! 👋**  
+# **Hey, I'm Máximo Dip! 👋**  
 
 🚀 **Fullstack Developer | Tech Enthusiast | Problem Solver**  
 
